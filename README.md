@@ -13,3 +13,15 @@ Contains the files related to PWC Power BI Virtual Internship
 ![Slide3](https://user-images.githubusercontent.com/73750698/141056600-3dbde09e-09f0-431b-b743-b9acb1097dcd.JPG)
 ![Slide4](https://user-images.githubusercontent.com/73750698/141056609-14ed729c-68ce-4b70-8530-77c25156e4e9.JPG)
 ![Slide5](https://user-images.githubusercontent.com/73750698/141056613-a1b9f889-b720-412d-9785-cb19416d16bb.JPG)
+
+
+# Task 3: Diversity and Inclusion Dashboard
+Identified below KPIs to be tracked through this dashboard:
+* Ratio of Men Vs Women
+* Countof Leavers
+* % count of employees promoted (FY21)
+* % count of women promoted
+* % of hires men Vs % of hires women
+* % turnover 
+* Average performance rating: men
+* Average Performance rating: women
