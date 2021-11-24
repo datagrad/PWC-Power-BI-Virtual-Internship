@@ -25,3 +25,7 @@ Identified below KPIs to be tracked through this dashboard:
 * % turnover 
 * Average performance rating: men
 * Average Performance rating: women
+
+
+# Compleation Certificate
+![image](https://user-images.githubusercontent.com/73750698/143224758-e8b5c8cd-66b8-482c-bcdb-48ce4e86903b.png)
