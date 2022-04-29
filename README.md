@@ -1,6 +1,9 @@
 # PWC-Power-BI-Virtual-Internship
-![image](https://user-images.githubusercontent.com/73750698/143224758-e8b5c8cd-66b8-482c-bcdb-48ce4e86903b.png)
 Contains the files related to PWC Power BI Virtual Internship
+
+# Certificate
+![image](https://user-images.githubusercontent.com/73750698/143224758-e8b5c8cd-66b8-482c-bcdb-48ce4e86903b.png)
+
 
 
 # Task 1: Call Center Customer Satisfaction Dashboard
