@@ -1,6 +1,6 @@
 # PWC Power BI Virtual Internship
 
-Check my other projects here >> <a href="https://datagrad.github.io/"><img src="https://img.shields.io/badge/Projects-Check--my--Projects--here%20-blue">
+# Check my other projects here >> <a href="https://datagrad.github.io/"><img src="https://img.shields.io/badge/My--Data--Science--Projects-Click--here--to--Check--my--other--Projects-brightgreen">
 
 Contains the files related to PWC Power BI Virtual Internship
 
